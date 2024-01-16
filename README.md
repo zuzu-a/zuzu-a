@@ -11,11 +11,11 @@ Hello! I'm Zuzu.
 
 **currently learning:**
 
-📚 django & gdscript 
+📚 rust and julia
 
 **year's goal:**
 
-
+!
 
 **working on:**
 
