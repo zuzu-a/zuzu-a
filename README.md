@@ -12,15 +12,3 @@ Hello! I'm Zuzu.
 **currently learning:**
 
 📚 rust and julia
-
-**year's goal:**
-
-!
-
-**working on:**
-
-📌 [x](y)
-
-📌 [x](y)
-
----
