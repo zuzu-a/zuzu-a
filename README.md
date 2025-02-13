@@ -11,4 +11,4 @@ Hello! I'm Zuzu.
 
 **currently learning:**
 
-📚 rust and julia
+📚 ~~rust and julia~~
